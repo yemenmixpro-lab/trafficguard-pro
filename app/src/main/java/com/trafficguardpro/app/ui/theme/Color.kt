@@ -15,3 +15,11 @@ val TrafficDark = Color(0xFF0E1626)
 val TrafficGreen = Color(0xFF4CD964)
 val TrafficAmber = Color(0xFFFFB74D)
 val TrafficRed = Color(0xFFFF5A5F)
+
+object ColorPalette {
+    val background = TrafficDark
+    val surface = Color(0xFF121E32)
+    val onBackground = Color(0xFFEAF3FF)
+    val muted = Color(0xFF8AA2C1)
+    val card = Color(0xFF182845)
+}
